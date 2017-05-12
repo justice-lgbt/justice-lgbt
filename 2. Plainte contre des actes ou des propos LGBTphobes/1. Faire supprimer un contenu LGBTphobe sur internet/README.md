@@ -1,6 +1,4 @@
-# Faire supprimer un contenu LGBTphobe sur internet
-
-Si vous souhaitez faire supprimer un contenu LGBTphobe sur internet, vous pouvez utiliser les modèles ci-dessous pour adresser une lettre à l’éditeur et/ou à l’hébergeur du contenu. Ces modèles peuvent être utilisés par la victime des violences ou par une association de lutte contre les LGBTphobies. 
+**Si vous souhaitez faire supprimer un contenu LGBTphobe sur internet, vous pouvez utiliser les modèles ci-dessous pour adresser une lettre à l’éditeur et/ou à l’hébergeur du contenu. Ces modèles peuvent être utilisés par la victime des violences ou par une association de lutte contre les LGBTphobies.** 
 
 
 ## 1. Constater d’abord les contenus LGBTphobes sur internet

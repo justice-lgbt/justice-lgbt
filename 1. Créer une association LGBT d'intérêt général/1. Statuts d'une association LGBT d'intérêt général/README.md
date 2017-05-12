@@ -1,5 +1,3 @@
-# Statuts d’une association LGBT d’intérêt général
-
 Vous trouverez ici un modèle de statuts qui vous permettra de gérer efficacement votre association et de bénéficier du statut d’intérêt général, autorisant vos donateurs à déduire de leurs impôts 66% du montant de leurs dons.
 
 
