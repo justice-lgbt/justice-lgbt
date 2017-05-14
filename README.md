@@ -1,1 +1,0 @@
-Toute la doc sous licence libre pour créer une asso LGBT et agir contre les actes LGBTphobes.
