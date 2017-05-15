@@ -12,20 +12,20 @@ L’injure est **non publique** si le propos peut être entendu ou lu devant un 
 
 ### b. Dois-je déposer une plainte simple ou une plainte avec constitution de partie civile ?  
 
-Il faut toujours commencer par déposer une **plainte simple** lorsque vous avez été victime d’un délit pénal. Il vous faudra donc toujours commencer par utiliser le modèle de plainte simple, à adresser par lettre recommandée au procureur de la République compétent, donc vous trouverez les coordonnées sur le [site du Ministère de la Justice](http://www.annuaires.justice.gouv.fr/). Ce dépôt de plainte par lettre recommandée remplace la plainte déposée auprès des services de police. Vous n’avez donc pas besoin de vous déplacer au commissariat si vous envoyez une lettre recommandée au procureur pour porter plainte. 
+Il faut toujours commencer par déposer une **plainte simple** lorsque vous avez été victime d’un délit pénal. « Il vous faudra donc toujours commencer par utiliser le modèle de plainte simple, à adresser par lettre recommandée au procureur de la République compétent, dont vous trouverez les coordonnées sur le [site du Ministère de la Justice](http://www.annuaires.justice.gouv.fr/). Ce dépôt de plainte par lettre recommandée remplace la plainte déposée auprès des services de police. Vous n’avez donc pas besoin de vous déplacer au commissariat si vous envoyez une lettre recommandée au procureur pour porter plainte. 
 
 Vous avez également la possibilité de **porter plainte avec constitution de partie civile**, devant le doyen des juges d’instruction du tribunal de grande instance compétent. En matière d’injure, cette constitution de partie civile est très complexe à rédiger. Il est nécessaire d’avoir recours à un avocat. Vous pouvez prendre contact avec Mousse via le formulaire ci-dessous, qui pourra vous mettre en contact avec un avocat spécialisé dans la lutte contre les LGBTphobies. 
 
 
 ## 2. Quelles sont les preuves que je dois apporter ?
 
-A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime de violences LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
+A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime d’injures LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
 
 
 ### a. Preuves de l’injure
 Si les propos ont été tenus sur internet, nous vous conseillons de procéder comme suit : 
 -	Faites une impression-écran des propos litigieux, en prenant de soins de bien noter l’adresse URL. Sur Twitter et sur Facebook, à chaque post correspond une adresse URL. Notez-là bien. 
--	Réaliser vous-même gratuitement un constat sur internet sur www.easyconstat.com, à partir de l’URL que vous avez notée à l’étape précédente.  
+-	Réaliser vous-même gratuitement un constat sur internet sur [www.easyconstat.com](https://www.easyconstat.com), à partir de l’URL que vous avez notée à l’étape précédente.  
 
 Si les propos ont été tenus dans un écrit imprimé, il faut vous procurer cet écrit et en adresser une copie au procureur de la République. 
 

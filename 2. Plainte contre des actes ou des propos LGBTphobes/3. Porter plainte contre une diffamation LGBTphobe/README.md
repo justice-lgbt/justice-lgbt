@@ -5,7 +5,7 @@
 
 ### a. Diffamation publique ou non publique ?
 
-La diffamation est **publique** si le propos peut être entendu ou lu par un nombre indéterminé de personnes. Concernant les réseaux sociaux, l’injure publique est retenue si la publication est accessible à tous. Ce sont donc les paramètres de confidentialité qui vont ici jouer. 
+La diffamation est **publique** si le propos peut être entendu ou lu par un nombre indéterminé de personnes. Concernant les réseaux sociaux, la diffamation publique est retenue si la publication est accessible à tous. Ce sont donc les paramètres de confidentialité qui vont ici jouer. 
 
 La diffamation est **non publique** si le propos peut être entendu ou lu devant un cercle restreint de personne ayant un lien entre elles.
 
@@ -19,13 +19,13 @@ Vous avez également la possibilité de **porter plainte avec constitution de pa
 
 ## 2. Quelles sont les preuves que je dois apporter ?
 
-A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime de violences LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
+A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime de diffamations LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
 
 ### a. Preuves de la diffamation
 
 Si les propos ont été tenus sur internet, nous vous conseillons de procéder comme suit : 
 * Faites une impression-écran des propos litigieux, en prenant de soins de bien noter l’adresse URL. Sur Twitter et sur Facebook, à chaque post correspond une adresse URL. Notez-là bien. 
-* Réaliser vous-même gratuitement un constat sur internet sur www.easyconstat.com, à partir de l’URL que vous avez notée à l’étape précédente.  
+* Réaliser vous-même gratuitement un constat sur internet sur [www.easyconstat.com](https://www.easyconstat.com), à partir de l’URL que vous avez notée à l’étape précédente.  
 
 Si les propos ont été tenus dans un écrit imprimé, il faut vous procurer cet écrit et en adresser une copie au procureur de la République. 
 
@@ -36,7 +36,7 @@ Si les propos ont été tenus lors d’un discours, il faut vous procurer l’en
 
 En matière de diffamation, le caractère homophobe est généralement explicite. Par exemple, dans la phrase « Il faut mettre les pédés dans des camps d’extermination », on comprend d’emblée que l’auteur des propos est homophobe. Il suffit donc généralement d’apporter la preuve des propos pour faire la preuve de la LGBTphobie.
 
-Cependant, afin de démontrer plus largement la LGBTphobie de l’auteur des propos, nous vous conseillons de rapporter également des preuves montrant que la diffamation a été précédé, accompagné ou suivi de propos, écrits, images ou actes LGBTphobes, au moyen notamment des preuves suivantes : 
+Cependant, afin de démontrer plus largement la LGBTphobie de l’auteur des propos, nous vous conseillons de rapporter également des preuves montrant que la diffamation a été précédée, accompagnée ou suivie de propos, écrits, images ou actes LGBTphobes, au moyen notamment des preuves suivantes : 
 * Posts ou messages LGBTphobes publiés par l’auteur des violences sur internet, et notamment sur les réseaux sociaux
 * Emails, lettres, SMS, messages de répondeur à caractère LGBTphobe adressés par l’auteur des violences à la victime
 * …

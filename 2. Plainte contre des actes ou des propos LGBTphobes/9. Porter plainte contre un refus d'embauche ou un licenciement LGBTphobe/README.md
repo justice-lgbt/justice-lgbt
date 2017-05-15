@@ -1,4 +1,4 @@
-**Si vous avez été victime d’un refus d’embauche, de sanction ou de licenciement LGBTphobes, vous pouvez utiliser les modèles ci-dessous pour déposer une plainte simple et/ou porter plainte avec constitution de partie civile. Ces modèles peuvent être utilisés par la victime des violences ou par une association de lutte contre les LGBTphobies qui souhaite agir en justice aux côtés de la victime.** 
+**Si vous avez été victime d’un refus d’embauche, de sanction ou de licenciement LGBTphobe, vous pouvez utiliser les modèles ci-dessous pour déposer une plainte simple et/ou porter plainte avec constitution de partie civile. Ces modèles peuvent être utilisés par la victime d’un refus d’embauche ou d’un licenciement ou par une association de lutte contre les LGBTphobies qui souhaite agir en justice aux côtés de la victime.** 
 
 
 ## 1. Quel modèle dois-je utiliser ? 
@@ -10,12 +10,12 @@ Si votre plainte simple n’a pas eu de réponse pendant 3 mois ou si elle été
 
 ## 2. Quelles sont les preuves que je dois apporter ?
 
-A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime de violences LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
+A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime d’un refus d’embauche ou d’un licenciement LGBTphobe. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
 
 
 ### a. Preuves du refus d’embauche, de sanction ou de licenciement
 
-Les violences peuvent notamment être établies par les preuves suivantes : 
+Le refus d’embauche ou le licenciement peut notamment être établies par les preuves suivantes : 
 * Attestations de témoin ayant assisté aux faits, à réaliser sur ce [modèle d’attestation en justice](https://www.service-public.fr/particuliers/vosdroits/R11307) 
 * Enregistrements vidéos
 * Enregistrements sonores

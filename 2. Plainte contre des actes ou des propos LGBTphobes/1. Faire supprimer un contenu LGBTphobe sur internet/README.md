@@ -5,14 +5,14 @@
 
 Afin de constater les contenus sur internet, nous vous conseillons de procéder comme suit : 
 -	Faites une impression-écran des contenus litigieux, en prenant de soins de bien noter l’adresse URL. Sur Twitter et sur Facebook, à chaque post correspond une adresse URL. Notez-là bien. 
--	Réaliser vous-même gratuitement un constat sur internet sur www.easyconstat.com, à partir des URL que vous avez notées à l’étape précédente.  
+-	Réaliser vous-même gratuitement un constat sur internet sur [www.easyconstat.com](https://www.easyconstat.com), à partir des URL que vous avez notées à l’étape précédente.  
 
 
 ## 2. Adresser ensuite une lettre à l’éditeur du contenu
 
-L’éditeur des contenus est celui qui prend la responsabilité de la publication. S’il s’agit d’un journal, l’éditeur est le directeur de la publication. S’il s’agit d’un réseau social, l’éditeur est la personne qui a posté contenu litigieux. S’il s’agit d’un forum, l’éditeur est également la personne qui a posté le message sur le forum. 
+L’éditeur des contenus est celui qui prend la responsabilité de la publication. S’il s’agit d’un journal, l’éditeur est le directeur de la publication. S’il s’agit d’un réseau social, l’éditeur est la personne qui a posté le contenu litigieux. S’il s’agit d’un forum, l’éditeur est également la personne qui a posté le message sur le forum. 
 
-Si vous disposez de l’adresse postale de l’éditeur, il est préférable de lui adresser une lettre recommandée. Si vous n’en disposez pas, vous pouvez utiliser l’email, les messages Facebook, les messages Twitter… Dans tous les cas, faites bien attention vous constituer la preuve que vous avez envoyé le message, par exemple en faisant des impressions-écrans. 
+Si vous disposez de l’adresse postale de l’éditeur, il est préférable de lui adresser une lettre recommandée. Si vous n’en disposez pas, vous pouvez utiliser l’email, les messages Facebook, les messages Twitter… Dans tous les cas, faites bien attention à vous constituer la preuve que vous avez envoyé le message, par exemple en faisant des impressions-écrans . 
 
 
 ## 3. Adresser enfin une lettre à l’hébergeur des contenus

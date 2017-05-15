@@ -10,7 +10,7 @@ Les statuts permettent une gestion simple et efficace de l’association :
 
 ## Bénéficier du statut d’intérêt général
 
-Les statuts sont rédigés de manière à ce que l’association bénéficie du statut d’intérêt général (article 200 et 238 bis code général des impôts) : 
+Les statuts sont rédigés de manière à ce que l’association bénéficie du statut d’intérêt général (article 200 et 238 bis du code général des impôts) : 
 * L’objet mentionne des activités correspondant à des catégories visées par la loi ;
 * Toute personne peut adhérer à l’association ; il n’y a pas de cooptation ; 
 * La gestion de l’association est réalisée de manière désintéressée ;

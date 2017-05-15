@@ -5,7 +5,7 @@
 
 Tous les types de dons effectués au profit d’une association d’intérêt général donnent droit à réduction d’impôt. Il peut donc s’agir : 
 
-* de dons sous forme de versement d’argent (par ex. : en espèce, virement, chèque, prélèvement ;
+* de dons sous forme de versement d’argent (par ex. : en espèce, virement, chèque, prélèvement) ;
 * de dons sous forme de biens matériels ou immatériels (par ex. : don d’ordinateur, don d’imprimante, don de site internet…) ; 
 * de dons sous forme de prestations (par ex. : don de prestations d’un expert-comptable, don de prestations d’un développeur de site internet, don de prestations d’un avocat …) ;
 * de dons sous forme de renonciation à percevoir un remboursement de frais. 

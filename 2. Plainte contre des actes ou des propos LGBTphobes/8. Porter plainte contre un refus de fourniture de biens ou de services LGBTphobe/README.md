@@ -10,12 +10,12 @@ Si votre plainte simple n’a pas eu de réponse pendant 3 mois ou si elle été
 
 ## 2. Quelles sont les preuves que je dois apporter ?
 
-A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime de violences LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
+A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qui établissent que vous avez bien été victime d’un refus de fourniture de biens ou de services LGBTphobes. La preuve en droit pénal est libre, ce qui signifie que vous pouvez utiliser tous les éléments qui permettent de prouver ce que vous mentionnez dans votre plainte. 
 
 
 ### a. Preuves du refus de fourniture d’un bien ou d’un service
 
-Les violences peuvent notamment être établies par les preuves suivantes : 
+Le refus de fourniture d’un bien ou d’un service peut notamment être établi par les preuves suivantes : 
 * Attestations de témoin ayant assisté aux faits, à réaliser sur ce [modèle d’attestation en justice](https://www.service-public.fr/particuliers/vosdroits/R11307)
 * Enregistrements vidéos
 * Enregistrements sonores

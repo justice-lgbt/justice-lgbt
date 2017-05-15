@@ -1,11 +1,11 @@
-**Si vous avez été victime d’un appel à la haine LGBTphobes, vous pouvez utiliser les modèles ci-dessous pour déposer une plainte simple. Ces modèles peuvent être utilisés par la personne visée par les propos LGBTphobes ou par une association de lutte contre l’homophobie qui souhaite agir en justice aux côtés de la victime ou agir contre des propos visant un groupe de personnes.** 
+**Si vous avez été victime d’un appel à la haine LGBTphobe, vous pouvez utiliser les modèles ci-dessous pour déposer une plainte simple. Ces modèles peuvent être utilisés par la personne visée par les propos LGBTphobes ou par une association de lutte contre l’homophobie qui souhaite agir en justice aux côtés de la victime ou agir contre des propos visant un groupe de personnes.** 
 
 
 ## 1. Quel modèle dois-je utiliser ? 
 
 ### a. Appel à la haine publique ou non publique ?
 
-L’appel à la haine est **public** si le propos peut être entendu ou lu par un nombre indéterminé de personnes. Concernant les réseaux sociaux, l’injure publique est retenue si la publication est accessible à tous. Ce sont donc les paramètres de confidentialité qui vont ici jouer. 
+L’appel à la haine est **public** si le propos peut être entendu ou lu par un nombre indéterminé de personnes. Concernant les réseaux sociaux, l’appel à la haine public est retenu si la publication est accessible à tous. Ce sont donc les paramètres de confidentialité qui vont ici jouer. 
 
 L’appel à la haine est **non public** si le propos peut être entendu ou lu devant un cercle restreint de personne ayant un lien entre elles.
 
@@ -25,7 +25,7 @@ A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qu
 ### a. Preuves de l’appel à la haine
 Si les propos ont été tenus sur internet, nous vous conseillons de procéder comme suit : 
 * Faites une impression-écran des propos litigieux, en prenant de soins de bien noter l’adresse URL. Sur Twitter et sur Facebook, à chaque post correspond une adresse URL. Notez-là bien. 
-* Réaliser vous-même gratuitement un constat sur internet sur www.easyconstat.com, à partir de l’URL que vous avez notée à l’étape précédente.  
+* Réaliser vous-même gratuitement un constat sur internet sur [www.easyconstat.com](https://www.easyconstat.com), à partir de l’URL que vous avez notée à l’étape précédente.  
 
 Si les propos ont été tenus dans un écrit imprimé, il faut vous procurer cet écrit et en adresser une copie au procureur de la République. 
 

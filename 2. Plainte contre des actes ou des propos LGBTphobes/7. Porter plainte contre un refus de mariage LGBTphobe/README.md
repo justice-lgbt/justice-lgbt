@@ -15,7 +15,7 @@ A l’appui de votre plainte, vous devrez apporter une photocopie des preuves qu
 
 ### a. Preuves du refus de mariage
 
-Les violences peuvent notamment être établies par les preuves suivantes : 
+Le refus de mariage peut notamment être établie par les preuves suivantes : 
 * Attestations de témoin ayant assisté aux faits, à réaliser sur ce [modèle d’attestation en justice](https://www.service-public.fr/particuliers/vosdroits/R11307)
 * Enregistrements vidéos
 * Enregistrements sonores
@@ -36,4 +36,4 @@ Le caractère LGBTphobe peut ainsi être établi par les preuves suivantes :
 * …
 
 
-Si vous avez été victime d’un refus de mariage, n’hésitez pas à prendre contact avec l’association Mousse grâce au formulaire ci-dessous. Selon la nature de l’affaire, Mousse pourra se joindre à votre action en justice et mettre gratuitement un avocat à votre disposition. 
+Si vous avez été victime d’un refus de mariage LGBTphobe, n’hésitez pas à prendre contact avec l’association Mousse grâce au formulaire ci-dessous. Selon la nature de l’affaire, Mousse pourra se joindre à votre action en justice et mettre gratuitement un avocat à votre disposition. 

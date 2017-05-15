@@ -23,4 +23,4 @@ L’envoi de la demande de rescrit vous a permis d’obtenir le statut d’inté
 * Lorsque la Direction général des finances publiques répond favorablement à votre demande ; ou
 * Lorsque la Direction général des finances publiques ne répond pas pendant un délai de 3 mois à compter de l’envoi de votre demande. Dans ce cas, le silence est réputé valoir acceptation de la demande. 
 
-Si la Direction général des finances publiques vous donne une réponse défavorable, n’hésitez pas à nous envoyer un petit message avec le formulaire ci-dessous. On fera ce qu’on peut vous donner un coup de main. 
+Si la Direction général des finances publiques vous donne une réponse défavorable, n’hésitez pas à nous envoyer un petit message avec le formulaire ci-dessous. On fera ce qu’on peut pour vous donner un coup de main. 

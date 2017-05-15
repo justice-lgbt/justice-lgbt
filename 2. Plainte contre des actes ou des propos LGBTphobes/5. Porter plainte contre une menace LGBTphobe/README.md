@@ -14,7 +14,7 @@ C’est en fonction de ce critère qu’il faudra choisir le modèle ci-dessous.
 
 ### b. Dois-je déposer une plainte simple ou une plainte avec constitution de partie civile ?  
 
-Il faut toujours commencer par déposer une **plainte simple** lorsque vous avez été victime d’un délit pénal. Il vous faudra donc toujours commencer par utiliser le modèle de plainte simple, à adresser par lettre recommandée au procureur de la République compétent, donc vous trouverez les coordonnées sur le [site du Ministère de la Justice](http://www.annuaires.justice.gouv.fr/). Ce dépôt de plainte par lettre recommandée remplace la plainte déposée auprès des services de police. Vous n’avez donc pas besoin de vous déplacer au commissariat si vous envoyez une lettre recommandée au procureur pour porter plainte. 
+Il faut toujours commencer par déposer une **plainte simple** lorsque vous avez été victime d’un délit pénal. Il vous faudra donc toujours commencer par utiliser le modèle de plainte simple, à adresser par lettre recommandée au procureur de la République compétent, dont vous trouverez les coordonnées sur le [site du Ministère de la Justice](http://www.annuaires.justice.gouv.fr/). Ce dépôt de plainte par lettre recommandée remplace la plainte déposée auprès des services de police. Vous n’avez donc pas besoin de vous déplacer au commissariat si vous envoyez une lettre recommandée au procureur pour porter plainte. 
 
 Si votre plainte simple n’a pas eu de réponse pendant 3 mois ou si elle été classée sans suite, vous pourrez alors **porter plainte avec constitution de partie civile**, devant le doyen des juges d’instruction du tribunal de grande instance compétent, donc vous trouverez les coordonnées sur le [site du Ministère de la Justice](http://www.annuaires.justice.gouv.fr/).
 
@@ -45,4 +45,4 @@ Le caractère LGBTphobe des menaces peut ainsi être établi par les preuves sui
 * Posts ou messages LGBTphobes publiés par l’auteur des menaces sur internet, et notamment sur les réseaux sociaux
 * …
 
-Si vous avez été victime de violences homophobes particulièrement graves, n’hésitez pas à prendre contact avec l’association Mousse grâce au formulaire ci-dessous. Selon la nature de l’affaire, Mousse pourra se joindre à votre action en justice et mettre gratuitement un avocat à votre disposition. 
+Si vous avez été victime de menaces homophobes particulièrement graves, n’hésitez pas à prendre contact avec l’association Mousse grâce au formulaire ci-dessous. Selon la nature de l’affaire, Mousse pourra se joindre à votre action en justice et mettre gratuitement un avocat à votre disposition. 
